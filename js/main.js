@@ -2,7 +2,7 @@ import * as THREE from 'three';
 import { TWEEN } from 'tween';
 
 
-var sound = new Audio("https://github.com/Urb4ne/U/blob/main/node_modules/ding.mp3");
+var sound = new Audio("https://cdn.discordapp.com/attachments/717384261354651649/993178003360198676/ding.mp3");
 
 // Scene
 const scene = new THREE.Scene();
